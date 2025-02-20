@@ -2,12 +2,36 @@
 
 <div align="center">
   
-  # 👋 Hi, I'm Lakindu Ekanayake
-  
-</div>
+# 👋 Hi, I'm Lakindu Ekanayake
 
 🎯 **Frontend Developer** specializing in **React**, **JavaScript**, and **UI/UX Design**.  
 💻 Passionate about building **responsive** and **scalable** web applications.  
+
+</div>
+
+---
+
+## 📌 About Me
+
+<table>
+  <tr>
+    <td>
+      <ul>
+        <li>💻 I'm a passionate <strong>Frontend Developer</strong> with expertise in <strong>React, JavaScript, and modern web technologies</strong>.</li>
+        <li>🎓 Currently pursuing a <strong>Higher Diploma in Information Technology</strong> at <strong>SLIIT CITY UNI, Sri Lanka</strong>.</li>
+        <li>🚀 I love building user-friendly web applications and crafting intuitive UI/UX experiences.</li>
+        <li>📊 Experienced in <strong>Fish Inventory Management Systems</strong> and developing real-world projects.</li>
+        <li>📫 How to reach me:  
+          <a href="mailto:sachinthalakindu@gmail.com">sachinthalakindu@gmail.com</a>
+        </li>
+        <li>⚡ Fun fact: <strong>I turn coffee into code!</strong></li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/Lakindu99/Lakindu99/blob/main/Me.gif" width="300" alt="Coding GIF">
+    </td>
+  </tr>
+</table>
 
 ---
 
