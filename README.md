@@ -1,4 +1,4 @@
-![My Banner](https://github.com/Lakindu99/Lakindu99/blob/b9915d15659fad582d8fd9424936b0ad1c12ea8d/profile-banner.png)
+![My Banner](https://github.com/Lakindu99/Lakindu99/blob/main/assets/profile-banner.png)
 
 <div align="center">
   
@@ -28,7 +28,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/Lakindu99/Lakindu99/blob/main/Me.gif" width="250" alt="Coding GIF">
+      <img src="https://github.com/Lakindu99/Lakindu99/blob/main/assets/Me.gif" width="250" alt="Coding GIF">
     </td>
   </tr>
 </table>
