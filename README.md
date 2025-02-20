@@ -28,7 +28,7 @@
       </ul>
     </td>
     <td>
-      <img src="https://github.com/Lakindu99/Lakindu99/blob/main/Me.gif" width="200" alt="Coding GIF">
+      <img src="https://github.com/Lakindu99/Lakindu99/blob/main/Me.gif" width="250" alt="Coding GIF">
     </td>
   </tr>
 </table>
