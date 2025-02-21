@@ -52,8 +52,15 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Lakindu99&show_icons=true&theme=radical" alt="GitHub Stats" />
   <br />
-  <img src="https://github-readme-streak-stats.onrender.com/?user=Lakindu99&theme=radical" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Lakindu99&theme=radical" alt="GitHub Streak Stats" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakindu99&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+---
+## 🚀 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakindu99&theme=radical" alt="GitHub Contribution Graph" />
+</p>
+
+---
