@@ -9,6 +9,17 @@
 
 </div>
 
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon"width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="40" height="40" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon"width="40" height="40" />
+</div>
+
 ---
 
 ## 📌 About Me
@@ -38,11 +49,9 @@
 ## 🛠️ Languages & Tools
 
 <div align="center">
-  
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,jquery,php,nodejs,express,java,python,c,cpp,cs,git,github,gitlab,wordpress,vscode,idea,androidstudio,postman,mysql,mongodb,firebase,figma,ps&theme=light&perline=14" />
-</a>
-
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,jquery,php,nodejs,express,java,python,c,cpp,cs,git,github,gitlab,wordpress,vscode,idea,androidstudio,postman,mysql,mongodb,firebase,figma,ps&theme=light&perline=14" />
+  </a>
 </div>
 
 ---
@@ -57,10 +66,20 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakindu99&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
-## 🚀 Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Lakindu99&theme=radical" alt="GitHub Contribution Graph" />
+  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg" alt="example" />
 </p>
 
 ---
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lakindu-ekanayake" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakindu-ekanayake" height="30" width="40" /></a>
+  <a href="https://stackoverflow.com/users/9565088/supun-nanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="supun-nanayakkara" height="30" width="40" /></a>
+  <a href="https://www.youtube.com/@supunnanayakkara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="supun nanayakkara" height="30" width="40" /></a>
+  <a href="https://fb.com/supun.nanayakkaraii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="supun.nanayakkaraii" height="30" width="40" /></a>
+  <a href="https://instagram.com/supun___lk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="supun___lk" height="30" width="40" /></a>
+</p>
+
+<div align="center">
+  ✨ "Turning coffee into code, and ideas into reality." ✨
+</div>
