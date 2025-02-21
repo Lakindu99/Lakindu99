@@ -40,12 +40,20 @@
 <div align="center">
   
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,jquery,php,nodejs,express,java,python,c,cpp,cs,git,github,gitlab,linux,vscode,idea,androidstudio,postman,mysql,mongodb,firebase,figma,ps&theme=light&perline=14" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,tailwind,jquery,php,nodejs,express,java,python,c,cpp,cs,git,github,gitlab,wordpress,vscode,idea,androidstudio,postman,mysql,mongodb,firebase,figma,ps&theme=light&perline=14" />
 </a>
 
 </div>
 
 ---
 
-### 📊 GitHub Stats:
-![Lakindu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lak
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Lakindu99&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.onrender.com/?user=Lakindu99&theme=radical" alt="GitHub Streak Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakindu99&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
